@@ -18,3 +18,53 @@ ________________________________________________________________________________
 
 For the code to work you need to have a twitter.csv folder from where it'll analyse the tweets.
 IDE for pyhon, 
+
+
+libraries are:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM,Dense, Dropout, SpatialDropout1D
+from tensorflow.keras.layers import Embedding
+import time
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import nltk
+import io
+import unicodedata
+import numpy as np
+import re
+import string
+from numpy import linalg
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.tokenize import PunktSentenceTokenizer
+from nltk.tokenize import PunktSentenceTokenizer
+from nltk.corpus import webtext
+from nltk.stem.porter import PorterStemmer
+from nltk.stem.wordnet import WordNetLemmatizer
+
+
+
+df = pd.read_csv("./Tweets.csv")
+
+
+
+
+
+**WHATS NEEDED:**
+
+1. analyse pictures (by using tags in them) (specifically for instagram)
+2. allow the user to input their own activity.
+3. provide a user interface for modifying their recommended activity.[You have full freedom over this be as vreative as possible]
+4. analyse images from facebook
+5. code to monitor interaction time
+
+
+
+**How to Contribute?**
+see _Contribution.md_
