@@ -28,7 +28,7 @@ where your_user_name is your GitHub username. Here you're copying the contents o
 npm install
 5. Add a reference(remote) to the original repository.
 
-git remote add upstream 
+git remote add upstream https://github.com/TheCleverIdiott/SENMETER
 6. Check the remotes for this repository.
 
 git remote -v
@@ -39,4 +39,25 @@ git pull upstream main
 
 git checkout -b <your_branch_name>
 9. Make necessary changes and commit those changes
+
+10. Track your changes✔️ .
+
+git add . 
+
+11. Commit your changes .
+
+git commit -m "Relevant message"
+
+12. Push the committed changes in your feature branch to your remote repo.
+
+git push -u origin <your_branch_name>
+
+13. To create a pull request, click on compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+14. Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+15. Click on Create Pull Request.
+
+16.Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
+
 
