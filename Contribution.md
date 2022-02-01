@@ -4,12 +4,14 @@ Refer to the following articles on the basics of Git and Github and can also con
 If you don't have git on your machine, install it.
 1. Watch this video to get started, if you have no clue about open source - https://youtu.be/SL5KKdmvJ1U
 2. Forking a Repo - https://docs.github.com/en/get-started/quickstart/fork-a-repo
-3. Cloning a Repo - 
-4. How to create an Issue
-5. How to create a Pull Request
-6. Getting started with Git and GitHub
+3. Cloning a Repo - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+4. How to create an Issue - https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
+5. How to create a Pull Request - https://opensource.com/article/19/7/create-pull-request-github
+6. Getting started with Git and GitHub - https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
 
 📜 Instructions to follow while contributing:
+
+**FORK THIS REPOSITORY AND WORK ON THE CLONE DON'T CHANGE MAIN**
 
 
 Below are the steps to follow to contribute to this project:
