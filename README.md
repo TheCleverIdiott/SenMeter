@@ -67,4 +67,4 @@ df = pd.read_csv("./Tweets.csv")
 
 
 **How to Contribute?**
-see _Contribution.md_
+see _Contribution.md_ https://github.com/TheCleverIdiott/SENMETER/blob/main/Contribution.md
