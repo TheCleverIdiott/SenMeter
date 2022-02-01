@@ -9,6 +9,21 @@ This shall also measure post interaction, i.e. if a user has been engaging with 
 
 current mood = [0,1,2,3,4] on a 5 point scale...0 being lowest.
 
+The project aims at creating a ai system that analyses social media posts 
+(Currently it imports tweets(texts) as csv and uses linguistic markers in them to judge the sentiment/mood of the user)(for eg a tweet "aw shucks, what a bad  flight" will be marked in negative sentiment, (because of the word bad)
+Similarly for other emotions 
+
+I need it to scan the tags for pictures.. some pictures on the Internet can be found under certain tags.. I need it to look it up on the web, identify it's tag and classify it as sad/happy etc..
+This will create 2 lists
+1. A daily list
+2. A weekly list
+
+After 3-4 entries in the daily list..
+It'll match the frequency of the entries [sad, sad, happy, sad, confused]
+This will be returned as 'sad' 
+Then form the recommendation list(which can be modified according to user) it'll recommend some activities for a sad mood.
+____________________________________________________________________________________________
+
 based of this the programme will have recommended activities.
 the programme will have a default set of recommended activities but it can be modified by th user according to their needs.
 the idea is to make it into an appliaction that sends the recommended activities as notifications.
