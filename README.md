@@ -23,7 +23,7 @@ The mood analysed over the last 10 posts (or over time, if it is a frequent user
 This shall also measure post interaction, i.e. if a user has been engaging with posts tagged as "sad" more recently the current mood will be hinting towrds sad.
 The project aims at creating a ai system that analyses social media posts. A continually occuring 'sad' indicator will be hinting depression.
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributions
@@ -53,6 +53,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jagreetdg/Dseized-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheCleverIdiott/AI-Score-Predictor/graphs/contributors
+[contributors-url]: https://github.com/TheCleverIdiott/SENMETER/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/jagreetdg/Dseized-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/TheCleverIdiott/AI-Score-Predictor/blob/main/LICENSE
+[license-url]: 
