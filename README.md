@@ -25,6 +25,16 @@ The project aims at creating a ai system that analyses social media posts. A con
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+## Prerequisites
+  * Python - [**Install Python**](https://python.org)
+  * Text Editor
+  * Pandas (`$ pip install pandas`)
+  * Tensorflow (`$ pip install tensorflow`)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+    
+
 <!-- CONTRIBUTING -->
 ## Contributions
 
