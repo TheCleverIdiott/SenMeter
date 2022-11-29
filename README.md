@@ -1,8 +1,8 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-
+![All Contributors](https://img.shields.io/badge/Contributors-1-orange.svg?style=flat-square)
+![All Contributors](https://img.shields.io/badge/Forks-3-green.svg?style=flat-square)
+![All Contributors](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 # SENMETER
 
@@ -55,4 +55,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/jagreetdg/Dseized-Bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/TheCleverIdiott/SENMETER/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/jagreetdg/Dseized-Bot.svg?style=for-the-badge
-[license-url]: 
+[fork-shield]: hhttps://img.shields.io/github/forks/TheCleverIdiott/SENMETER.svg
+
