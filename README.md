@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheCleverIdiott/Win_Analyser">
-    <img src="https://github.com/TheCleverIdiott/AI-Score-Predictor/blob/main/logo.jpeg" alt="Logo">
+    <img src="https://github.com/TheCleverIdiott/SENMETER/blob/main/Media1.mp4" alt="Logo">
   </a>
 </div>
 
