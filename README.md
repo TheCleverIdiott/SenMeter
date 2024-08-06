@@ -4,7 +4,7 @@
 ![All Contributors](https://img.shields.io/badge/Forks-3-green.svg?style=flat-square)
 ![All Contributors](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
-# SENMETER
+# Sentimental Analysis using twitter api
 
 
 <!-- PROJECT LOGO -->
